@@ -1,0 +1,22 @@
+#principal{
+    background-color: #c0baba;
+    border: 1px solid #1a1919;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+}
+button{
+    
+    background-color: #e0c9b5;
+    width: 45px;
+    padding: 10px;
+    margin: 1px;
+}
+input{
+    padding: 15px;
+    margin: 8px;
+    width: 150px;
+}
+h1{
+    text-align: center;
+}

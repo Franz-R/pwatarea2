@@ -1,0 +1,21 @@
+.formulario{
+    background-color: rgb(233, 219, 173);
+    border: 1px solid #121111;
+    width: 320px;
+    height: 250px;
+    padding: 10px;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+.txt{
+    position: absolute;
+    left: 620px;
+}
+.boton{
+    position: absolute;
+    left: 600px;
+    bottom: 320px;
+    padding: 5px;
+}

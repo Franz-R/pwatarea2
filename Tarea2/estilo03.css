@@ -1,0 +1,17 @@
+ /* Estilos para la transición de imagen */
+ .image-container {
+    position: relative;
+    width: 30%; /* Ajusta el ancho  */
+    height: 30%; /* Ajusta la altura */
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out; /* Duración de la transición */
+}
+
+.image-container:hover img {
+    transform: scale(1.2); /* Escala la imagen al 120% al pasar el ratón sobre ella */
+}
